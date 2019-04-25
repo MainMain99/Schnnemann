@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Baum()
+comment0.text=\r\n\ Diese\ Methode\ ist\ der\ Konstruktor\ einer\ Klasse.\ \r\n\ Er\ wird\ aufgerufen,\ wenn\ ein\ Objekt\ aus\ der\ Klasse\ erstellt\ wird.\r\n\ Hier\ werden\ Objekte\ erzeugt,\ aus\ denen\ \r\n
+comment1.params=
+comment1.target=void\ verschiebeDich()
+comment2.params=
+comment2.target=void\ verschiebeDich2()
+numComments=3
